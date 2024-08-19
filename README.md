@@ -5,19 +5,43 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Answer: Sofware Engineering is the summation of the processes that contribute to the design, development, testing, deployment, and maintenance of a high quality software
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
+Answer: 1- Development of Programming Languages: This was led by the development of Fortran by IBM in the year 1957
+        2- The Rise of Agile Methodologies:The Agile Manifesto was published in 2001 and formalized a new approach to software development that emphasizes flexibility,                 collaboration, and customer-centricity 
+        3- Establishment of Software Engineering as a discpline: In the 1960s "software engineering" was recognized as a discipline as a result of the need for a structured            approach to software development
+        
 List and briefly explain the phases of the Software Development Life Cycle.
-
-
+Answer: -Requirements: Collecting and recording user needs and system specifications.
+        -Design: Developing overall and detailed plans for the software structure and user experience.
+        -Implementation: Coding and constructing the software based on design plans.
+        -Testing: Performing checks to ensure the software meets quality and functional criteria.
+        -Deployment: Launching the software for use by customers or users.
+        -Maintenance: Offering continual support, updates, and improvements after the software is in use.
+        
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
-
+Answer: -Flexibility vs Structure: Waterfall is rigid and structured, while Agile is flexible and iterative.
+        -Planning vs Adaptation: Waterfall involves detailed upfront planning, whereas Agile embraces change and adapts as development progresses.
+        -Documentation vs Communication: Waterfall relies heavily on documentation, while Agile focuses on communication and collaboration with stakeholders.
+        
+  Waterfall methodologies example: Well-defined projects with fixed requirements (e.g.healthcare, aerospace systems).
+  Agile methodologies example: Projects with evolving requirements and a need for regular feedback (e.g., mobile app development).
+  
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Answer: Software Developer- (1)Design and Code: Create software based on specifications.
+                            (2)Debug and Fix: Identify and resolve issues in the code.
+                            (3)Maintain: Update and optimize existing software.
 
+  Quality Assurance (QA) Engineer- (1)Test: Develop and execute tests to ensure software quality.
+                                   (2)Identify Issues: Detect and document bugs and defects.
+                                   (3)Verify: Ensure that the software meets functional and performance standards.
+                                   (4)Collaborate: Work with developers to resolve issues and improve quality.
+
+  Project Manager- (1)Plan: Define project scope, timelines, and resources.
+                   (2)Coordinate: Manage and allocate tasks among team members.
+                   (3)Monitor: Track project progress and ensure deadlines are met.
+                   (4)Communicate: Act as the liaison between the team and stakeholders.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
