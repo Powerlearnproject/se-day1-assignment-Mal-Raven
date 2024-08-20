@@ -8,17 +8,17 @@ Explain what software engineering is and discuss its importance in the technolog
 Answer: Sofware Engineering is the summation of the processes that contribute to the design, development, testing, deployment, and maintenance of a high quality software
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Answer: 1- Development of Programming Languages: This was led by the development of Fortran by IBM in the year 1957
-        2- The Rise of Agile Methodologies:The Agile Manifesto was published in 2001 and formalized a new approach to software                     development that emphasizes flexibility, collaboration and customer-centricity 
-        3- Establishment of Software Engineering as a discpline: In the 1960s "software engineering" was recognized as a discipline as             a result of the need for a structured approach to software development
+Answer: (1) Development of Programming Languages: This was led by the development of Fortran by IBM in the year 1957
+        (2) The Rise of Agile Methodologies:The Agile Manifesto was published in 2001 and formalized a new approach to software                     development that emphasizes flexibility, collaboration and customer-centricity 
+        (3) Establishment of Software Engineering as a discpline: In the 1960s "software engineering" was recognized as a discipline as             a result of the need for a structured approach to software development
         
 List and briefly explain the phases of the Software Development Life Cycle.
-Answer: -Requirements: Collecting and recording user needs and system specifications.
-        -Design: Developing overall and detailed plans for the software structure and user experience.
-        -Implementation: Coding and constructing the software based on design plans.
-        -Testing: Performing checks to ensure the software meets quality and functional criteria.
-        -Deployment: Launching the software for use by customers or users.
-        -Maintenance: Offering continual support, updates, and improvements after the software is in use.
+Answer: (1)Requirements: Collecting and recording user needs and system specifications.
+        (2)Design: Developing overall and detailed plans for the software structure and user experience.
+        (3)Implementation: Coding and constructing the software based on design plans.
+        (4)Testing: Performing checks to ensure the software meets quality and functional criteria.
+        (5)Deployment: Launching the software for use by customers or users.
+        (6)Maintenance: Offering continual support, updates, and improvements after the software is in use.
         
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Answer: -Flexibility vs Structure: Waterfall is rigid and structured, while Agile is flexible and iterative.
@@ -78,7 +78,12 @@ Answer: (1)Unit Testing- Tests individual components or functions in isolation.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Answer:Prompt engineering- This is the process of crafting and refining input prompts to guide AI models in generating accurate and            relevant responses.
+       Importance:
+        (1)Enhances Output Quality: Well-designed prompts lead to more precise and contextually appropriate AI responses.
+        (2)Maximizes Utility: Effective prompts help users better leverage the AI's capabilities for various tasks.
+        (3)Reduces Ambiguity: Clear prompts minimize vague or irrelevant outputs.
+        (4)Optimizes Efficiency: Good prompts result in quicker, more effective interactions with the AI.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Answer: Vague Prompt- How to Plant Yam
