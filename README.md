@@ -75,4 +75,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Answer: Vague Prompt- How to Plant Yam
         Improved Prompt- Step by step process on how to cultivate yam in Nigeria during Harmattan season
 
-        Explanation: The improved prompt is more effective because it focuses
+        Explanation: The improved prompt is more effective because it focuses the enquiry on a geographical area having a particular            weather condition which will enable the response to be more elaborate on the given prompt
