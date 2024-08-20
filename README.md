@@ -9,8 +9,8 @@ Answer: Sofware Engineering is the summation of the processes that contribute to
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Answer: 1- Development of Programming Languages: This was led by the development of Fortran by IBM in the year 1957
-        2- The Rise of Agile Methodologies:The Agile Manifesto was published in 2001 and formalized a new approach to software development that emphasizes flexibility,                 collaboration, and customer-centricity 
-        3- Establishment of Software Engineering as a discpline: In the 1960s "software engineering" was recognized as a discipline as a result of the need for a structured            approach to software development
+        2- The Rise of Agile Methodologies:The Agile Manifesto was published in 2001 and formalized a new approach to software                     development that emphasizes flexibility, collaboration and customer-centricity 
+        3- Establishment of Software Engineering as a discpline: In the 1960s "software engineering" was recognized as a discipline as             a result of the need for a structured approach to software development
         
 List and briefly explain the phases of the Software Development Life Cycle.
 Answer: -Requirements: Collecting and recording user needs and system specifications.
@@ -22,8 +22,8 @@ Answer: -Requirements: Collecting and recording user needs and system specificat
         
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Answer: -Flexibility vs Structure: Waterfall is rigid and structured, while Agile is flexible and iterative.
-        -Planning vs Adaptation: Waterfall involves detailed upfront planning, whereas Agile embraces change and adapts as development progresses.
-        -Documentation vs Communication: Waterfall relies heavily on documentation, while Agile focuses on communication and collaboration with stakeholders.
+        -Planning vs Adaptation: Waterfall involves detailed upfront planning, whereas Agile embraces change and adapts as development           progresses.
+        -Documentation vs Communication: Waterfall relies heavily on documentation, while Agile focuses on communication and                     collaboration with stakeholders.
         
   Waterfall methodologies example: Well-defined projects with fixed requirements (e.g.healthcare, aerospace systems).
   Agile methodologies example: Projects with evolving requirements and a need for regular feedback (e.g., mobile app development).
