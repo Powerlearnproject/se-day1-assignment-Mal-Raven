@@ -21,9 +21,9 @@ Answer: (1)Requirements: Collecting and recording user needs and system specific
         (6)Maintenance: Offering continual support, updates, and improvements after the software is in use.
         
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Answer: -Flexibility vs Structure: Waterfall is rigid and structured, while Agile is flexible and iterative.
-        -Planning vs Adaptation: Waterfall involves detailed upfront planning, whereas Agile embraces change and adapts as development           progresses.
-        -Documentation vs Communication: Waterfall relies heavily on documentation, while Agile focuses on communication and                     collaboration with stakeholders.
+Answer: (1)Flexibility vs Structure: Waterfall is rigid and structured, while Agile is flexible and iterative.
+        (2)Planning vs Adaptation: Waterfall involves detailed upfront planning, whereas Agile embraces change and adapts as                       development progresses.
+        (3)Documentation vs Communication: Waterfall relies heavily on documentation, while Agile focuses on communication and                     collaboration with stakeholders.
         
   Waterfall methodologies example: Well-defined projects with fixed requirements (e.g.healthcare, aerospace systems).
   Agile methodologies example: Projects with evolving requirements and a need for regular feedback (e.g., mobile app development).
