@@ -56,9 +56,6 @@ Answer: Integrated Development Environments(IDEs)- IDEs are software application
         (3)Backup and Recovery: Since every version of the project is stored, it's easy to roll back to previous states if something               goes wrong, providing a safety net.
         Examples Include: GitHub, GitLab and Subversion(SVN)
 
-
-
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
