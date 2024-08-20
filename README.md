@@ -44,6 +44,12 @@ Answer: Software Developer- (1)Design and Code: Create software based on specifi
                    (4)Communicate: Act as the liaison between the team and stakeholders.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Answer: Integrated Development Environments(IDEs)- IDEs are software applications that provide comprehensive facilities to programmers          for software development. Importance of IDEs include:
+        (1)Code Editor: A powerful text editor that supports syntax highlighting, code completion, and error detection, making it                 easier to write and navigate code.
+        (2)Debugger: A tool that helps developers identify and fix errors by allowing them to inspect variables, step through code, and            evaluate expressions at runtime.
+        (3)Compiler/Interpreter: Facilitates the process of translating code into executable programs or running scripts directly, speeding up development and testing.
+
+
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
