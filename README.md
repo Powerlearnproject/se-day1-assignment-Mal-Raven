@@ -65,7 +65,14 @@ Answer:(1)Keeping up with changing Technologies- The fast pace of technology can
         Strategies: Encourage healthy work culture that values work-life balance, including flexible working arrangements when possible
         
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+Answer: (1)Unit Testing- Tests individual components or functions in isolation. 
+        Importance: Catches bugs early and simplifies debugging by focusing on small, specific parts of the code.
+        (2)Integration Testing- Tests how different modules or components work together. 
+        Importance: Identifies issues in interactions between units, ensuring they function correctly as a group.
+        (3)System Testing: Tests the complete, integrated software system against requirements. 
+        Importance: Validates that the entire system meets functional and non-functional requirements before release.
+        (4)Acceptance Testing: Confirms that the software meets business requirements and is ready for deployment. 
+        Importance: Ensures the final product aligns with user expectations and is fit for purpose.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
