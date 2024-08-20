@@ -72,3 +72,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Answer: Vague Prompt- How to Plant Yam
+        Improved Prompt- Step by step process on how to cultivate yam in Nigeria during Harmattan season
+
+        Explanation: The improved prompt is more effective because it focuses
