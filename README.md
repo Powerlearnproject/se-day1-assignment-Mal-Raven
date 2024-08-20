@@ -48,12 +48,13 @@ Answer: Integrated Development Environments(IDEs)- IDEs are software application
         (1)Code Editor: A powerful text editor that supports syntax highlighting, code completion, and error detection, making it                 easier to write and navigate code.
         (2)Debugger: A tool that helps developers identify and fix errors by allowing them to inspect variables, step through code, and            evaluate expressions at runtime.
         (3)Compiler/Interpreter: Facilitates the process of translating code into executable programs or running scripts directly,                 speeding up development and testing.
-        Examples include:
+        Examples include: Visual Studio Code, Eclipse and PyCharm
 
         Version Control Systems(VCS)- VCS are tools that help manage changes to source code over time. They allow multiple developers           to work on a project simultaneously, track and merge their contributions, and revert to previous versions if needed.                    Importance of VCS include:
         (1)Version Tracking: Every change to the codebase is recorded, allowing developers to see who made changes, what those changes             were, and when they were made.
-        (2)Collaboration: VCS facilitates collaboration by allowing multiple developers to work on different parts of a project                    simultaneously. Tools like Git enable pull requests and code reviews, ensuring that changes are reviewed before being                   integrated.
+        (2)Collaboration: VCS facilitates collaboration by allowing multiple developers to work on different parts of a project                    simultaneously.
         (3)Backup and Recovery: Since every version of the project is stored, it's easy to roll back to previous states if something               goes wrong, providing a safety net.
+        Examples Include: GitHub, GitLab and Subversion(SVN)
 
 
 
